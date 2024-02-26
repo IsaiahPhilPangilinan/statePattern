@@ -94,3 +94,4 @@ public class AccountTest() {
 ````
 
 # UML Diagram
+![State Pattern Diagram](https://github.com/IsaiahPhilPangilinan/statePattern/assets/126074199/56399e68-a307-41a3-9353-e2632c504c07)
